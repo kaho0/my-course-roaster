@@ -1,0 +1,65 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1557437380-7e0a7a5d53a9",
+    "title": "Introduction to C Programming",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 15000,
+    "credit": "1 hr"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1559027615-ce3b82b8e2e7",
+    "title": "Introduction to Algorithms",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 25000,
+    "credit": "2 hr"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61",
+    "title": "Introduction to C++ for DSA",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 10000,
+    "credit": "10 hr"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1504198453319-5ce911bafcde",
+    "title": "Basic Data Structures",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 35000,
+    "credit": "5 hr"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1547658717-da2b51169100",
+    "title": "Introduction to OOP Python",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 19000,
+    "credit": "5 hr"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981b",
+    "title": "Software Engineering",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 23000,
+    "credit": "2 hr"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1546484952-01d91422a3d0",
+    "title": "AWS, Cloud Computing",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 35000,
+    "credit": "5 hr"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1556758723-d490a35d82a7",
+    "title": "Database (MySQL)",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 19000,
+    "credit": "5 hr"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b",
+    "title": "Problem-Solving Part",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.",
+    "price": 23000,
+    "credit": "2 hr"
+  }
+]
